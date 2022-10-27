@@ -32,3 +32,4 @@ O papel, como Analista de Dados, é conseguir criar um processo da forma mais au
 - Ticket Médio por Venda -> Meta Ano: 500 / Meta Dia: 500
 
 Obs: Cada indicador deve ser calculado no dia e no ano. O indicador do dia deve ser o do último dia disponível na planilha de Vendas (a data mais recente)
+Obs2: Estamos trabalhando com a Api do Windows WINDOWS API (antiga Win32 API), então é necessário para o funcionamento do código que usem o app do Outlook
