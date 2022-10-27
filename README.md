@@ -6,8 +6,8 @@
 ex:
 <div align="center">
   <tr>
-    <td><img src='https://user-images.githubusercontent.com/116774040/198345561-98205228-136a-4a1e-834b-3c6115822b1c.png' width=500>
-    <td><img src='https://user-images.githubusercontent.com/116774040/198346823-42fb7f94-ac4f-4a56-a592-1176728b8ff6.png' width=500>
+    <td><img src='https://user-images.githubusercontent.com/116774040/198345561-98205228-136a-4a1e-834b-3c6115822b1c.png' height=500>
+    <td><img src='https://user-images.githubusercontent.com/116774040/198346823-42fb7f94-ac4f-4a56-a592-1176728b8ff6.png' height=500>
   </tr>
 </div>
   
