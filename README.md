@@ -1,8 +1,7 @@
 # Automação de Indicadores
 ### Objetivo: Treinar e criar um Projeto Completo que envolva a automatização de um processo feito no computador
 
-<b>No final do programa, teremos: um e-mail enviado para o gerente de cada loja e um e-mail enviado para a diretoria, com o ranking das melhores lojas.</b>
-- E-mail enviado para o gerente de cada loja.
+No final do programa, teremos:
 ex:
 <div align="center">
 <img src='https://user-images.githubusercontent.com/116774040/198345561-98205228-136a-4a1e-834b-3c6115822b1c.png' height=400>
