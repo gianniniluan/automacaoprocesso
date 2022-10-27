@@ -2,10 +2,13 @@
 ### Objetivo: Treinar e criar um Projeto Completo que envolva a automatização de um processo feito no computador
 
 No final do programa, teremos:
+
+- Email enviado para a gerência de cada loja
 ex:
 <div align="center">
 <img src='https://user-images.githubusercontent.com/116774040/198345561-98205228-136a-4a1e-834b-3c6115822b1c.png' height=400>
 </div>
+
 - E-mail enviado para a diretoria com o ranking das melhores lojas.
 ex:
 <div align="center">
