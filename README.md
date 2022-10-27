@@ -1,8 +1,10 @@
 # Automação de Indicadores
 ### Objetivo: Treinar e criar um Projeto Completo que envolva a automatização de um processo feito no computador
 
+<div align="center">
 <img src='https://user-images.githubusercontent.com/116774040/198344350-b6ebf8e4-c431-40c2-9720-2376b9df16b4.png' width=1200>
-
+</div>
+  
 ### Instalação
 
 ```
